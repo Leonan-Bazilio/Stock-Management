@@ -1,4 +1,4 @@
-import ItemForm from "../../components/itemForm";
+import ItemForm from "../../components/ItemForm";
 
 export default function CreateItem() {
   return <ItemForm />;
